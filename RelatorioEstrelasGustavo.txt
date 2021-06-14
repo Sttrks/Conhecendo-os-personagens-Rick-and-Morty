@@ -1,0 +1,48 @@
+Olá!
+
+Sobre o meu desempenho no desafio,
+
+No HTML foi bem tranquilo, usei como base os elementos da apostila cedida pelo time do estrelas
+e também o W3 Scholl, inclusive foi lá que descobri sobre as Div's...
+Criei uma div pra cada personagem e criei uma classe para essas div's para que com apenas 1 bloco de código CSS edita-las, 
+criei uma div maior pra essas div's, pra alinha-las como um bloco pra ficar padronizado na tela
+ainda no HTML utilizei 2 imagens como título na qual uma achei no google e a outra eu fiz em um site de fontes,
+utilizando a fonte das letras do desenho, para poder dar uma estética boa a página.
+
+
+No CSS com o body achei melhor adicionar uma imagem do desenho no background para ficar melhor esteticamente, 
+e fiz com que ela pegasse 100% da tela, além de ganhar tempo para meu desafio, 
+quanto as imagens do texto "Rick And Morty" e "Conhecendo os personagens" criei uma classe para cada uma para poder edita-las
+separadamente para chegar ao tamanho que achei adequado para cada uma.
+Depois alinhei as div's dentro da classe "alinhar" como um bloco, aí depois fui alinhar a classe "personagem"
+terminando essa parte fui para a edição do tamanho da imagem dentro da classe personagem, dimensionei o tamanho e o
+alinhamento que queria para ficar adequado dentro da div.
+Por fim, fiz a edição do texto colocando a fonte e o tamanho que achei adequado.
+Fiz bastante pesquisa no W3 Scholl e no YouTube tbm para pegar algumas referências, inclusive foi do YouTube que peguei 
+a referência para usar uma imagem como background ao invés de editar cores, ganhando assim tempo,
+e usei uma parte do código da apostila para fazer o degradê do bloco dos personagens 
+
+
+No Javascript tive bastante dificuldade, bastante mesmo, declarei uma variavél para cada imagem e nome que iria precisar
+para eles poderem receber as id's específicas deles 
+usei como referencia uma parte do código da apostila para poder fazer a busca dos dados, depois de analisar bastante
+o código consegui entender bem o que ele fazia para poder aplicar no meu código, quis usar laço de repetição para poder 
+jogar as informações pra dentro das 4 div's dos personagens sem crescer demais o código, pórem não consegui fazer isso 
+(preciso estudar isso para poder aprender), 
+para chegar a minha solução para jogar os dados que chegaram da api, dentro dos blocos dos personagens
+repeti o processo busca de dados 4 vezes, depois criei uma função para puxar os 4 processos 
+todas as vezes que a página fosse atualizada. 
+
+Por fim depois apenas analisei o código na página (F12) para ver algum código que não estivesse tendo utilidade 
+dentro do CSS para poder deixar o código "enxuto".
+
+
+Quero dizer que estou bem feliz com a minha evolução nesse curto período de tempo,
+ainda mais pq nunca tinha visto HTML, CSS e Javascript, absorvi bastante coisa nesse tempo,
+apesar das dificuldades (foram muitas, principalmente em Javascript) eu consegui fazer esse desafio,
+confesso que achei que não ia conseguir, mas aqui estou rsrs, espero me sair bem nessa avaliação, 
+pois me empenhei bastante (2 noites mal dormidas kkk) e muito obrigado ao time do estrelas (Vini, Eliseu e Maga)
+pelo empenho de vcs em nos ajudar e abrir essa porta tão maravilhosa para o mercado de trabalho que é tão dificil de chegar,
+mais uma vez MUITO OBRIGADO!
+
+Espero encontra-los na entrevista!!! Até Breve!

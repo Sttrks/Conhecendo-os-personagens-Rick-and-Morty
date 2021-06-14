@@ -1,0 +1,45 @@
+body {
+    background-image: url('https://i.pinimg.com/originals/6e/7f/f4/6e7ff4f2872ecdf30e8955a424d766b7.jpg');
+    background-size: 100%;
+}
+
+.imgcabeca {
+    width: 20%;  
+}
+
+.imgcabeca2 {
+    width: 40%;   
+}
+
+.alinhar {
+    display: inline-flex;
+}
+
+div.personagem {
+    display: inline-block;
+    width: 20%;
+    background-image: linear-gradient(180deg, #2e0875c7 10%, #0e0202c2 95%);   
+    border-radius: 10px;
+    border: none;
+    margin: 0 auto;
+}
+
+img {
+    display: block;
+    margin: 5% auto;
+    border-radius: 4px;
+    width: 80%;
+}
+
+p {
+    font-family: sans-serif;
+    font-size: 150%;
+    font-weight:bolder;
+    text-align: center;
+    color: white;
+}
+
+
+
+
+
